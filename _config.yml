@@ -1,0 +1,2 @@
+baseurl: /lucas
+exclude: ["README.md"]
