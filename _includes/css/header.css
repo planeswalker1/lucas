@@ -45,12 +45,6 @@ nav .nav {
   padding: 0;
 }
 
-@media screen and (max-width: 768px) {
-  .gallery, header nav {
-    flex-direction: column;
-  }
-}
-
 .nav li {
   margin-left: 20px;
 }
